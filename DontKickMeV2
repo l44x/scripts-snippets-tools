@@ -3,6 +3,16 @@
 // discord-scripting
 // Lel
 
+/* -------------------------------
+
+        > ChatColour
+        > VoicePanel Image
+        > Stop Kick Channel
+
+*/ -------------------------------
+
+
+
 // Globals Variable
 let channelId = '';
 let userId = '';
